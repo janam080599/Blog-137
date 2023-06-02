@@ -1,0 +1,114 @@
+body {
+  width: 80%;
+  margin: auto;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  background-color: azure;
+  scroll-behavior: smooth;
+  text-align: justify;
+}
+
+/* .nohead,
+h3,
+h4 {
+  display: inline-block;
+} */
+/* .tool {
+  display: inline-block;
+} */
+h4 {
+  margin-top: 0%;
+}
+h3 {
+  margin-bottom: 0%;
+}
+.head {
+  display: inline-block;
+  margin-top: 3em;
+  margin-left: 1.2em;
+  rotate: -30deg;
+  color: blanchedalmond;
+}
+.second {
+  float: right;
+  margin-top: 2.7em;
+  margin-right: 5em;
+  display: flex;
+  flex-direction: column;
+  /* align-items: flex-start; */
+}
+a {
+  text-decoration: none;
+  color: black;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  rotate: 30deg;
+}
+.first {
+  /* background-color: bisque; */
+  background-image: url("Img2.jpeg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 2%;
+  height: 10em;
+}
+/* .anchor1,
+.anchor2,
+.anchor3 {
+  /* display: flex; */
+/* rotate: 30deg;
+  margin-top: 5%; */
+/* justify-content: center; */
+/* } */
+.t {
+  background-image: url("Img3.png");
+  height: 30%;
+  /* width: 50%; */
+  background-size: 90% 90%;
+  background-repeat: no-repeat;
+  background-position: center;
+  text-align: center;
+  /* justify-content: center; */
+}
+.q {
+  position: relative;
+  top: 35%;
+}
+.rightimg {
+  /* float: right; */
+  width: 30%;
+  height: 50%;
+  margin-bottom: -10%;
+}
+.tool2 {
+  position: relative;
+  top: -27%;
+  left: 53%;
+}
+.one {
+  position: relative;
+  top: 5%;
+  left: 16%;
+}
+.two {
+  position: relative;
+  top: -30%;
+  left: 18%;
+  margin-bottom: -30%;
+}
+.tool {
+  margin-left: 30%;
+  margin-top: 15%;
+}
+.Tan {
+  height: 80%;
+}
+.center {
+  width: 30%;
+  margin-left: auto;
+  margin-right: auto;
+}
+.poem {
+  width: 40%;
+  margin-left: auto;
+  margin-right: auto;
+}
